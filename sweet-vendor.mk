@@ -386,6 +386,7 @@ PRODUCT_PACKAGES += \
     libasphere \
     libmisoundfx \
     libshoebox \
+    libxlog \
     com.qti.sensor.sweet_gc02m1 \
     com.qti.sensor.sweet_imx355 \
     com.qti.sensor.sweet_imx471_front \
