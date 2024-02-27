@@ -2117,6 +2117,8 @@ cc_prebuilt_library_shared {
 		android_arm: {
 			srcs: ["proprietary/vendor/lib/soundfx/libmisoundfx.so"],
 		},
+		 android_arm64: {
+			srcs: ["proprietary/vendor/lib64/soundfx/libmisoundfx.so"],
 	},
 	compile_multilib: "32",
 	check_elf_files: false,
